@@ -32,7 +32,7 @@ On the Command Prompt, navigate to the folder where the Python file is located.
 
 #### Step 3: 
 Type the following to build the .exe file:
-<pre><code>pyinstaller --onefile main.py
+<pre><code>pyinstaller --onefile main.pyw
 </code></pre>
 
 #### Step 4: 
