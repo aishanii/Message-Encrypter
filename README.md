@@ -30,10 +30,12 @@ On the Command Prompt, navigate to the folder where the Python file is located.
 <pre><code>cd C:\Users\UserName\Downloads
 </code></pre>
 
+#### Step 3: 
 Type the following to build the .exe file:
 <pre><code>pyinstaller --onefile main.py
 </code></pre>
 
+#### Step 4: 
 After the success message, look for the 'dist' folder in the same directory.
 There you'll find your .exe file ready to be used. 
 
